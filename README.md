@@ -9,7 +9,7 @@ A desktop application designed for managing library administrative operations, s
 * **Data Persistence:** Integrated text file I/O handling for storing persistent records.
 
 ## 🛠️ Tech Stack
-* **Language:** Java (JDK 8+)
+* **Language:** Java (JDK 21)
 * **UI Framework:** Java Swing (`javax.swing`)
 * **Core Concepts:** Object-Oriented Programming, File I/O, Data Structures
 
@@ -18,7 +18,7 @@ A desktop application designed for managing library administrative operations, s
 2. Open terminal/command prompt in the project folder.
 3. Compile all source files:
 ```bash
-javac *.java
+javac main.java
 ```
 4. Run the main launcher:
 ```bash
